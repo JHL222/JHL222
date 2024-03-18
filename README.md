@@ -30,6 +30,7 @@
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+<img src="https://camo.githubusercontent.com/651a441f92da99114c85a890a1f1a427647576f4fb709affd31ae4ffb2d3cf70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3246373142423f7374796c653d666c61742d737175617265266c6f676f3d4a415641266c6f676f436f6c6f723d303037333936266c6162656c436f6c6f723d323832383238"/>
 
 ***
 
