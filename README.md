@@ -8,11 +8,9 @@
 
 ***
 
-
-### 이정현 李政炫 JeongHyun Lee
+### 이정현 JeongHyun Lee
 
 ***
-
 
 2019.03 - 재학중</br>      백석대학교 컴퓨터공학부 정보보호학과 </br></br>
 2022.07 - 2022.12</br>    Korea IT Academy **JAVA1, JAVA2 과정** </br></br>
@@ -23,7 +21,6 @@
 # 🛠️ Tech Stack
 
 ***
-
 
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
