@@ -34,8 +34,6 @@
 
 ### 🖥️ Environment
 
-***
-
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
