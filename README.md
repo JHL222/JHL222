@@ -6,8 +6,6 @@
 
 <img src="https://github.com/JHL222/JHL222/assets/160108023/da860492-561d-4048-aa4a-a39a54e8c697"  width="500" height="500">
 
-***
-
 ### 이정현 JeongHyun Lee
 
 ***
@@ -21,8 +19,6 @@
 ***
 
 # 🛠️ Tech Stack
-
-***
 
 ### 📚 Platform & Language
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
@@ -54,8 +50,6 @@
 ***
 
 # 🤙 Contact Me
-
-***
 
 📞 Phone: +82 10-2730-4520<br/>
 ✉️ Email: jmejjh2@gmail.com or jmejjh2@naver.com
