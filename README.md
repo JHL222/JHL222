@@ -18,7 +18,7 @@
 
 ***
 
-# 🖥️ Tech Stack
+# 🛠️ Tech Stack
 
 ***
 
@@ -30,9 +30,10 @@
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java"/><br/>
 
 ***
+
+# 🖥️ Environment
 
 # 🤙 Contact Me
 
