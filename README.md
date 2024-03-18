@@ -61,4 +61,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=false&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=200&section=footer" />
