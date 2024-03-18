@@ -3,6 +3,8 @@
 # 🧑‍💻 About Me
 
 ***
+![mine](https://github.com/JHL222/JHL222/assets/160108023/2b9411c9-4659-4b77-85f6-bbc5834e6ff9)
+
 
 ### 이정현 李政炫 JeongHyun Lee
 
