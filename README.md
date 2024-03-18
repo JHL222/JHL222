@@ -30,7 +30,7 @@
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java?style=flat-square&logo=&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Java?style=flat-square&logoColor=white"/><br/>
 
 ***
 
