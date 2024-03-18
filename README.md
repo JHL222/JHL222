@@ -17,17 +17,16 @@
 2023.11 - 2024.07</br>   백석대학교 K-Digital Training **Web, AI, Blockchain**
 
 
-
-
-
-
 ***
 
 # 🤙 Contact
+
 ***
 
 📞 Phone: +82 10-2730-4520<br/>
 ✉️ Email: jmejjh2@gmail.com / jmejjh2@naver.com
+
+***
 
 <!---
 JHL222/JHL222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
