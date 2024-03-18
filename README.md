@@ -24,14 +24,16 @@
 
 
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://camo.githubusercontent.com/651a441f92da99114c85a890a1f1a427647576f4fb709affd31ae4ffb2d3cf70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3246373142423f7374796c653d666c61742d737175617265266c6f676f3d4a415641266c6f676f436f6c6f723d303037333936266c6162656c436f6c6f723d323832383238"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### 🖥️ Environment
 
