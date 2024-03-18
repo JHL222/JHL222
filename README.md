@@ -2,15 +2,9 @@
 
 # 🧑‍💻 About Me
 
-</div>
-
 ***
 
-<div align="center">
-  
 ### 이정현 李政炫 JeongHyun Lee
-
-</div>
 
 ***
 
@@ -25,3 +19,4 @@
 JHL222/JHL222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
