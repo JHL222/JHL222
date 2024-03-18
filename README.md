@@ -1,4 +1,4 @@
-# 🧑‍💻 안녕하세요. 이정현입니다.
+# 🧑‍💻 About Me
 ***
 <div align="center">
   
