@@ -16,7 +16,7 @@
 
 2019.03 - Enrolled in</br>      백석대학교 컴퓨터공학부 정보보호학과 <br/> Department of Information Protection, Faculty of Computer Engineering in BaekSeok Univ.  </br></br>
 2022.07 - 2022.12</br>    Korea IT Academy **JAVA1, JAVA2 과정** </br></br>
-2023.11 - 2024.07</br>   BaekSeok Univ. K-Digital Training **Web, AI, Blockchain**
+2023.11 - 2024.07</br>   K-Digital Training **Web, AI, Blockchain** in BaekSeok Univ. 
 
 ***
 
