@@ -37,9 +37,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### ⚙️ Tools
-<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse&nbsp;IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=XCode&logoColor=white"/>
 
 
 ### 🖥️ Environment
