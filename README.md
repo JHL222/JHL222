@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4494EB&height=200&section=header&text=Welcome&fontSize=70" />
-
 <div align='center'>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4494EB&height=200&section=header&text=Welcome&fontSize=70" />
   
 # 🧑‍💻 About Me
 
@@ -59,5 +59,5 @@ JHL222/JHL222 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4494EB&height=200&section=footer" />
+</div>
