@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongHyun's Profile&fontSize=90&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JeongHyun's&nbsp;Profile&fontSize=90&width=100%" />
 
 <div align='center'>
   
