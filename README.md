@@ -2,6 +2,8 @@
 
 # 🧑‍💻 About Me
 
+<img src="https://github.com/JHL222/JHL222/assets/160108023/da860492-561d-4048-aa4a-a39a54e8c697"  width="700" height="370">
+
 ***
 
 
