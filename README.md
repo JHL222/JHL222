@@ -61,4 +61,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&reversal=false&color=#B897FF"/>
