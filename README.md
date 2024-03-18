@@ -9,9 +9,9 @@
 ***
 
 
-2019.03 - 재학중      백석대학교 컴퓨터 공학부 정보보호학과 </br>
-2022.07 - 2022.12    Korea IT Academy **JAVA1, JAVA2 과정** </br>
-2023.11 - 2024.07    백석대학교 K-Digital Training **Web, AI, Blockchain, etc..**
+2019.03 - 재학중</br>      백석대학교 컴퓨터 공학부 정보보호학과 </br>
+2022.07 - 2022.12</br>    Korea IT Academy **JAVA1, JAVA2 과정** </br>
+2023.11 - 2024.07</br>   백석대학교 K-Digital Training **Web, AI, Blockchain, etc..**
 
 
 
