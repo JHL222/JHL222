@@ -1,7 +1,7 @@
 # 🧑‍💻 안녕하세요. 이정현입니다.
 ***
 <div align="center">
-이정현 李政炫 JeongHyun Lee
+# 이정현 李政炫 JeongHyun Lee
 </div>
 
 ***
