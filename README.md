@@ -31,8 +31,8 @@ NBWare 사업1부
 ### 📚 Library & Language
 
 ##### - FrontEnd -
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
-<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=VUE&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=VUE.JS&logoColor=white"/>
 
 ##### - BackEnd -
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
