@@ -32,9 +32,7 @@ NBWare 사업1부
 
 ##### - FrontEnd -
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=VUE&logoColor=white"/>
 
 ##### - BackEnd -
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -43,17 +41,8 @@ NBWare 사업1부
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### ⚙️ Tools
-<img src="https://img.shields.io/badge/Eclipse&nbsp;IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-
-
-### 🖥️ Environment
-
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 ***
 
