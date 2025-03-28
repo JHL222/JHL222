@@ -33,6 +33,7 @@ NBWare 사업1부
 ##### - FrontEnd -
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=REACT&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=VUE.JS&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
 ##### - BackEnd -
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
